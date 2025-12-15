@@ -1,0 +1,13 @@
+ipython
+numpy
+scipy
+statsmodels
+matplotlib
+pandas
+seaborn
+ipykernel
+# sympy
+# nose
+# scikit-learn
+# qiskit[visualization]
+# yfinance
